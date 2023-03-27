@@ -30,11 +30,11 @@
 // // ESERCIZIO 2
 // function printColorsNumber() {
 //     const colors = ['blue', 'red', 'yellow', 'green', 'black'];
-//     console.log(`Nella mia palette ci sono ${colors} colori!`);
+//     console.log(`Nella mia palette ci sono ${colors.length} colori!`);
 // }
 // printColorsNumber();
 
-// // nel console.log() non era necessario inserire .length per prendere tutti i colori
+// // nel console.log() era necessario inserire .length non .lenght
 
 
 // // ESERCIZIO 3
